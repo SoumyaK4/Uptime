@@ -12,8 +12,8 @@ sites:
   - name: Baduk Tube
     url: https://baduklectures.soumyak4.in/
     maxResponseTime: 60000
-assignees:
-  - SoumyaK4
+# assignees:
+  # - SoumyaK4
 skipDeleteIssues: true
 
 status-website:
