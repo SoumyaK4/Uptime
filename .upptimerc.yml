@@ -26,9 +26,11 @@ status-website:
   introMessage: Contact Me for Errors
   navbar:
     - title: Status
-      href: /
+      href: /Uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: ReadMe
+      href: /Uptime/README
 
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
