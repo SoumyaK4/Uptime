@@ -10,7 +10,7 @@ sites:
     url: https://weiqi.soumyak4.in/
     maxResponseTime: 500
   - name: BadukTube
-    url: https://baduklectures.soumyak4.in/
+    url: https://baduktube.soumyak4.in/
     maxResponseTime: 30000
   - name: Timeline
     url: https://soumyak4.in/Timeline/
