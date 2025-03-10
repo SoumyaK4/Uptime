@@ -5,13 +5,22 @@ repo: Uptime # The name of this repository
 sites:
   - name: Portfolio 
     url: https://soumyak4.in/
-    maxResponseTime: 5000
-  - name: WeiqiRoadmap
+    maxResponseTime: 500
+  - name: Weiqi Roadmap
     url: https://weiqi.soumyak4.in/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: BadukTube
     url: https://baduklectures.soumyak4.in/
-    maxResponseTime: 60000
+    maxResponseTime: 30000
+  - name: Timeline
+    url: https://soumyak4.in/Timeline/
+    maxResponseTime: 500
+  - name: Association of Indian Go Players
+    url: https://aigp.org.in/
+    maxResponseTime: 500
+  - name: Indian Go Database
+    url: https://igd.soumyak4.in/
+    maxResponseTime: 30000
     
 skipDeleteIssues: true
 
@@ -20,11 +29,11 @@ status-website:
   theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Site Stats
-  introTitle: "**SoumyaK4's** Site Uptime Stats"
-  introMessage: Contact Me for Errors
+  introTitle: "[SoumyaK4's](https://soumyak4.in/SiteStats/) Site Uptime Stats"
+  # introMessage: Contact Me for Errors
   navbar:
     - title: Linktree
-      href: /
+      href: https://soumyak4.in/SiteStats/
 
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
