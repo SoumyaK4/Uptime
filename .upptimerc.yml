@@ -23,8 +23,8 @@ status-website:
   introTitle: "**SoumyaK4's** Site Uptime Stats"
   introMessage: Contact Me for Errors
   navbar:
-    - title: Status
-      href: #
+    - title: Linktree
+      href: /
 
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
