@@ -17,8 +17,7 @@ sites:
 skipDeleteIssues: true
 
 status-website:
-  cname: soumyak4.in
-  baseUrl: /Uptime
+  cname: status.soumyak4.in
   theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Site Stats
@@ -29,8 +28,6 @@ status-website:
       href: /Uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: ReadMe
-      href: /Uptime/README
 
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
