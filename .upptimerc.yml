@@ -12,8 +12,8 @@ sites:
   - name: BadukTube
     url: https://baduklectures.soumyak4.in/
     maxResponseTime: 60000
-# assignees:
-  # - SoumyaK4
+ assignees:
+   - SoumyaK4
 skipDeleteIssues: true
 
 status-website:
@@ -25,9 +25,7 @@ status-website:
   introMessage: Contact Me for Errors
   navbar:
     - title: Status
-      href: /Uptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /
 
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
