@@ -96,9 +96,9 @@
     "url": "https://igd.soumyak4.in/",
     "icon": "https://icons.duckduckgo.com/ip3/igd.soumyak4.in.ico",
     "slug": "indian-go-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "97.97%",
+    "uptimeDay": "97.96%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "98.82%",
@@ -108,6 +108,7 @@
     "timeMonth": 1574,
     "timeYear": 1574,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2025-03-11": 29
     }
   }
