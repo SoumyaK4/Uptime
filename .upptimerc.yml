@@ -11,16 +11,16 @@ sites:
     maxResponseTime: 500
   - name: BadukTube
     url: https://baduktube.soumyak4.in/
-    maxResponseTime: 30000
+    maxResponseTime: 20000
   - name: Timeline
     url: https://soumyak4.in/Timeline/
     maxResponseTime: 500
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
-  - name: Indian Go Database
-    url: https://igd.soumyak4.in/
-    maxResponseTime: 30000
+  # - name: Indian Go Database
+  #   url: https://igd.soumyak4.in/
+  #   maxResponseTime: 30000
     
 skipDeleteIssues: true
 
