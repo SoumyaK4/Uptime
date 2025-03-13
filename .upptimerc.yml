@@ -24,6 +24,11 @@ sites:
     
 skipDeleteIssues: true
 
+workflowSchedule:
+  uptime: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 * * * *"
+  
 status-website:
   cname: status.soumyak4.in
   theme: night
