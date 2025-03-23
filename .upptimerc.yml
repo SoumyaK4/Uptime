@@ -12,15 +12,18 @@ sites:
   - name: BadukTube
     url: https://baduktube.soumyak4.in/
     maxResponseTime: 20000
+- name: TsumeGod
+    url: https://TsumeGod.soumyak4.in/
+    maxResponseTime: 20000
   - name: Timeline
     url: https://soumyak4.in/Timeline/
     maxResponseTime: 500
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
-  # - name: Indian Go Database
-  #   url: https://igd.soumyak4.in/
-  #   maxResponseTime: 30000
+  - name: Vietnam Go Association 
+    url: https://viet-go.soumyak4.in/
+    maxResponseTime: 30000
     
 skipDeleteIssues: true
 
