@@ -12,7 +12,7 @@ sites:
   - name: BadukTube
     url: https://baduktube.soumyak4.in/
     maxResponseTime: 20000
-- name: TsumeGod
+  - name: TsumeGod
     url: https://tsumegod.soumyak4.in/
     maxResponseTime: 20000
   - name: Timeline
