@@ -15,9 +15,9 @@ sites:
   - name: TsumeGod
     url: https://tsumegod.soumyak4.in/
     maxResponseTime: 20000
-  - name: Timeline
-    url: https://soumyak4.in/Timeline/
-    maxResponseTime: 500
+  # - name: Timeline
+  #   url: https://soumyak4.in/Timeline/
+  #   maxResponseTime: 500
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
