@@ -23,15 +23,15 @@ sites:
     maxResponseTime: 500
   - name: Vietnam Go Association 
     url: https://viet-go.soumyak4.in/
-    maxResponseTime: 30000
+    maxResponseTime: 20000
     
 skipDeleteIssues: true
 
 workflowSchedule:
   uptime: "/15 * * * *"        # Uptime checks every hour
   responseTime: "/15 * * * *"  # Response time recording every hour
-  staticSite: "0 * * * *"    # Status page rebuild every hour
-  summary: "0 * * * *"       # README summary updates every hour
+  staticSite: "/15 * * * *"    # Status page rebuild every hour
+  summary: "/15 * * * *"       # README summary updates every hour
   graphs: "0 * * * *"         # Graph generation every hour
 
 assignees:
@@ -40,13 +40,13 @@ assignees:
 status-website:
   cname: status.soumyak4.in
   theme: night
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Site Stats
+  logoUrl: https://github.com/SoumyaK4/soumyak4.github.io/blob/e14fcc0d351e554d1edcda3bb3126d86617ff7f4/assets/images/Logo.png
+  name: SoumyaK4
   introTitle: "[SoumyaK4's](https://soumyak4.in/SiteStats/) Site Uptime Stats"
   # introMessage: Contact Me for Errors
   navbar:
-    - title: Linktree
-      href: https://soumyak4.in/SiteStats/
+    - title: Profile
+      href: https://soumyak4.in/
 
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
