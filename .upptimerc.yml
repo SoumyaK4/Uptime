@@ -40,7 +40,7 @@ assignees:
 status-website:
   cname: status.soumyak4.in
   theme: night
-  logoUrl: https://github.com/SoumyaK4/soumyak4.github.io/blob/e14fcc0d351e554d1edcda3bb3126d86617ff7f4/assets/images/Logo.png
+  logoUrl: https://github.com/SoumyaK4/soumyak4.github.io/blob/main/assets/images/Logo.png?raw=true
   name: SoumyaK4
   introTitle: "[SoumyaK4's](https://soumyak4.in/SiteStats/) Site Uptime Stats"
   # introMessage: Contact Me for Errors
