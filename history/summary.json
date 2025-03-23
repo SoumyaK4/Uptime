@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 133,
-    "timeWeek": 142,
+    "timeDay": 141,
+    "timeWeek": 143,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.40%",
-    "time": 5399,
-    "timeDay": 3684,
-    "timeWeek": 6349,
-    "timeMonth": 5399,
-    "timeYear": 5399,
+    "time": 5389,
+    "timeDay": 3625,
+    "timeWeek": 6326,
+    "timeMonth": 5389,
+    "timeYear": 5389,
     "dailyMinutesDown": {
       "2025-03-22": 61,
       "2025-03-20": 6,
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 1176,
-    "timeWeek": 1176,
-    "timeMonth": 1176,
-    "timeYear": 1176,
+    "time": 1233,
+    "timeDay": 1233,
+    "timeWeek": 1233,
+    "timeMonth": 1233,
+    "timeYear": 1233,
     "dailyMinutesDown": {}
   },
   {
@@ -84,18 +84,20 @@
     "url": "https://soumyak4.in/Timeline/",
     "icon": "https://icons.duckduckgo.com/ip3/soumyak4.in.ico",
     "slug": "timeline",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 63,
+    "timeDay": 62,
     "timeWeek": 73,
     "timeMonth": 71,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-23": 0
+    }
   },
   {
     "name": "Association of Indian Go Players",
@@ -126,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 570,
-    "timeWeek": 570,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
