@@ -28,9 +28,9 @@ sites:
 skipDeleteIssues: true
 
 workflowSchedule:
-  uptime: "/15 * * * *"        # Uptime checks every hour
-  responseTime: "/15 * * * *"  # Response time recording every hour
-  staticSite: "/15 * * * *"    # Status page rebuild every hour
+  uptime: "*/15 * * * *"        # Uptime checks every hour
+  responseTime: "*/15 * * * *"  # Response time recording every hour
+  staticSite: "0 * * * *"    # Status page rebuild every hour
   summary: "/15 * * * *"       # README summary updates every hour
   graphs: "0 * * * *"         # Graph generation every hour
 
