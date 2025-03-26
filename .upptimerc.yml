@@ -15,9 +15,6 @@ sites:
   - name: TsumeGod
     url: https://tsumegod.soumyak4.in/
     maxResponseTime: 20000
-  # - name: Timeline
-  #   url: https://soumyak4.in/Timeline/
-  #   maxResponseTime: 500
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
@@ -28,10 +25,10 @@ sites:
 skipDeleteIssues: true
 
 workflowSchedule:
-  uptime: "*/15 * * * *"        # Uptime checks every hour
-  responseTime: "*/15 * * * *"  # Response time recording every hour
+  uptime: "*/20 * * * *"        # Uptime checks every 20m
+  responseTime: "*/20 * * * *"  # Response time recording every 20m
   staticSite: "0 * * * *"    # Status page rebuild every hour
-  summary: "/15 * * * *"       # README summary updates every hour
+  summary: "0 * * * *"       # README summary updates every hour
   graphs: "0 * * * *"         # Graph generation every hour
 
 assignees:
