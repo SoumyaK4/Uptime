@@ -11,10 +11,10 @@ sites:
     maxResponseTime: 500
   - name: BadukTube
     url: https://baduktube.soumyak4.in/
-    maxResponseTime: 20000
+    maxResponseTime: 5000
   - name: TsumeGod
     url: https://tsumegod.soumyak4.in/
-    maxResponseTime: 20000
+    maxResponseTime: 5000
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
@@ -22,11 +22,11 @@ sites:
     url: https://viet-go.soumyak4.in/
     maxResponseTime: 20000
     
-skipDeleteIssues: true
+# skipDeleteIssues: true
 
 workflowSchedule:
   uptime: "*/20 * * * *"        # Uptime checks every 20m
-  responseTime: "*/20 * * * *"  # Response time recording every 20m
+  responseTime: "0 * * * *"  # Response time recording every 20m
   staticSite: "0 * * * *"    # Status page rebuild every hour
   summary: "0 * * * *"       # README summary updates every hour
   graphs: "0 * * * *"         # Graph generation every hour
@@ -37,9 +37,9 @@ assignees:
 status-website:
   cname: status.soumyak4.in
   theme: night
-  logoUrl: https://raw.githubusercontent.com/SoumyaK4/soumyak4.github.io/main/assets/images/Logo.png
+  logoUrl: https://raw.githubusercontent.com/SoumyaK4/soumyak4.github.io/main/assets/img/Logo.png
   name: SoumyaK4
-  introTitle: "[SoumyaK4's](https://soumyak4.in/SiteStats/) Site Uptime Stats"
+  introTitle: "[SoumyaK4's](https://soumyak4.in/) Site Uptime Stats"
   # introMessage: Contact Me for Errors
   navbar:
     - title: Profile
