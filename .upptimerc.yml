@@ -22,7 +22,7 @@ sites:
     url: https://viet-go.soumyak4.in/
     maxResponseTime: 20000
     
-# skipDeleteIssues: true
+skipDeleteIssues: true
 
 workflowSchedule:
   uptime: "*/10 * * * *"        # Uptime checks every 15m
