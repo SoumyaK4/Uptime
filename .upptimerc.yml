@@ -21,12 +21,18 @@ sites:
   - name: Vietnam Go Association 
     url: https://viet-go.soumyak4.in/
     maxResponseTime: 20000
+  - name: SGF
+    url: https://sgf.soumyak4.in/
+    maxResponseTime: 200
+  - name: Heh!
+    url: https://p.soumyak4.in/
+    maxResponseTime: 500
     
 skipDeleteIssues: true
 
 # workflowSchedule:
-#   uptime: "*/10 * * * *"        # Uptime checks every 15m
-#   responseTime: "*/10 * * * *"  # Response time recording every 15m
+#   uptime: "*/7 * * * *"        # Uptime checks every 7m
+#   responseTime: "*/7 * * * *"  # Response time recording every 7m
 #   staticSite: "0 * * * *"    # Status page rebuild every hour
 #   summary: "0 * * * *"       # README summary updates every hour
 #   graphs: "0 * * * *"         # Graph generation every hour
