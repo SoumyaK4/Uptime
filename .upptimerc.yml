@@ -51,8 +51,8 @@ status-website:
     - title: Profile
       href: https://soumyak4.in/
 
-  # favicon: https://example.com/favicon.png
-  # faviconSvg: https://example.com/logo.svg
+  favicon: https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/img/favicons/favicon-96x96.png
+  faviconSvg: https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/img/favicons/favicon.svg
 
   
 # See https://upptime.js.org/docs/configuration
