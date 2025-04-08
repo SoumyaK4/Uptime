@@ -3,9 +3,9 @@ owner: SoumyaK4 # Your GitHub organization or username, where this repository li
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Portfolio 
-    url: https://soumyak4.in/
-    maxResponseTime: 200
+  # - name: Portfolio 
+  #   url: https://soumyak4.in/
+  #   maxResponseTime: 200
   - name: Weiqi Roadmap
     url: https://weiqi.soumyak4.in/
     maxResponseTime: 200
