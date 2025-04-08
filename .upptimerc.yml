@@ -5,12 +5,12 @@ repo: Uptime # The name of this repository
 sites:
   - name: Portfolio 
     url: https://soumyak4.in/
-    maxResponseTime: 500
+    maxResponseTime: 200
   - name: Weiqi Roadmap
     url: https://weiqi.soumyak4.in/
-    maxResponseTime: 500
+    maxResponseTime: 200
   - name: BadukTube
-    url: https://baduktube.soumyak4.in/
+    url: https://baduktube.soumyak4.in/about
     maxResponseTime: 5000
   - name: TsumeGod
     url: https://tsumegod.soumyak4.in/
@@ -20,14 +20,11 @@ sites:
     maxResponseTime: 500
   - name: Vietnam Go Association 
     url: https://viet-go.soumyak4.in/
-    maxResponseTime: 20000
+    maxResponseTime: 12345
   - name: SGF
     url: https://sgf.soumyak4.in/
     maxResponseTime: 200
-  - name: Heh!
-    url: https://p.soumyak4.in/
-    maxResponseTime: 500
-    
+
 skipDeleteIssues: true
 
 workflowSchedule:
