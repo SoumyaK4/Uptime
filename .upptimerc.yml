@@ -28,11 +28,11 @@ sites:
 # skipDeleteIssues: true
 
 workflowSchedule:
-  uptime: "*/5 * * * *"        # Uptime checks every 7m
-  responseTime: "*/5 * * * *"  # Response time recording every 7m
-#  staticSite: "*/21 * * * *"    # Status page rebuild every hour
-#  summary: "*/21 * * * *"       # README summary updates every hour
-#  graphs: "*/21 * * * *"         # Graph generation every hour
+  uptime: "*/30 * * * *"        # Uptime checks every 30m
+  responseTime: "*/30 * * * *"  # Response time recording every 30m
+#  staticSite: "* * * * *"    # Status page rebuild every hour
+#  summary: "* * * * *"       # README summary updates every hour
+#  graphs: "* * * * *"         # Graph generation every hour
 
 assignees:
   - "SoumyaK4"        
@@ -47,6 +47,8 @@ status-website:
   navbar:
     - title: Profile
       href: https://soumyak4.in/
+    - title: Pulse
+      href: https://pulse.soumyak4.in/
 
   favicon: https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/img/favicons/favicon-96x96.png
   faviconSvg: https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/img/favicons/favicon.svg
