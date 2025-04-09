@@ -28,11 +28,11 @@ sites:
 # skipDeleteIssues: true
 
 workflowSchedule:
-  uptime: "*/7 * * * *"        # Uptime checks every 7m
-  responseTime: "*/7 * * * *"  # Response time recording every 7m
-  staticSite: "*/21 * * * *"    # Status page rebuild every hour
-  summary: "*/21 * * * *"       # README summary updates every hour
-  graphs: "*/21 * * * *"         # Graph generation every hour
+  uptime: "*/5 * * * *"        # Uptime checks every 7m
+  responseTime: "*/5 * * * *"  # Response time recording every 7m
+#  staticSite: "*/21 * * * *"    # Status page rebuild every hour
+#  summary: "*/21 * * * *"       # README summary updates every hour
+#  graphs: "*/21 * * * *"         # Graph generation every hour
 
 assignees:
   - "SoumyaK4"        
