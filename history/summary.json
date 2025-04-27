@@ -2,7 +2,7 @@
   {
     "name": "Portfolio",
     "url": "https://soumyak4.in/",
-    "icon": "https://icons.duckduckgo.com/ip3/soumyak4.in.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/",
     "slug": "portfolio",
     "status": "up",
     "uptime": "100.00%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1693,
-    "timeDay": 487,
-    "timeWeek": 503,
-    "timeMonth": 597,
-    "timeYear": 1693,
+    "time": 193,
+    "timeDay": 187,
+    "timeWeek": 103,
+    "timeMonth": 197,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1671,
-    "timeDay": 1064,
-    "timeWeek": 1104,
-    "timeMonth": 1182,
-    "timeYear": 1671,
+    "time": 171,
+    "timeDay": 164,
+    "timeWeek": 104,
+    "timeMonth": 182,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
