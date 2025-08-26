@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 116,
+    "timeDay": 121,
     "timeWeek": 114,
-    "timeMonth": 112,
+    "timeMonth": 113,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 104,
-    "timeWeek": 111,
+    "timeDay": 115,
+    "timeWeek": 110,
     "timeMonth": 109,
     "timeYear": 111,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 739,
-    "timeDay": 454,
-    "timeWeek": 494,
+    "timeDay": 483,
+    "timeWeek": 496,
     "timeMonth": 500,
     "timeYear": 739,
     "dailyMinutesDown": {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1209,
-    "timeDay": 1147,
-    "timeWeek": 1109,
-    "timeMonth": 1095,
+    "timeDay": 1153,
+    "timeWeek": 1115,
+    "timeMonth": 1097,
     "timeYear": 1209,
     "dailyMinutesDown": {
       "2025-06-13": 51
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 185,
-    "timeWeek": 196,
+    "timeDay": 187,
+    "timeWeek": 198,
     "timeMonth": 169,
     "timeYear": 153,
     "dailyMinutesDown": {}
@@ -98,17 +98,19 @@
     "url": "https://rhymetime.soumyak4.in/",
     "icon": "https://icons.duckduckgo.com/ip3/rhymetime.soumyak4.in.ico",
     "slug": "r-hyme-time",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 53,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 53,
+    "timeDay": 51,
+    "timeWeek": 53,
+    "timeMonth": 53,
+    "timeYear": 53,
+    "dailyMinutesDown": {
+      "2025-08-26": 2
+    }
   }
 ]
