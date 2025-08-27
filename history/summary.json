@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 103,
+    "timeDay": 104,
     "timeWeek": 110,
     "timeMonth": 112,
     "timeYear": 107,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 109,
+    "time": 110,
+    "timeDay": 105,
     "timeWeek": 107,
     "timeMonth": 108,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 737,
-    "timeDay": 469,
-    "timeWeek": 488,
+    "time": 736,
+    "timeDay": 468,
+    "timeWeek": 487,
     "timeMonth": 499,
-    "timeYear": 737,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2025-08-06": 35
     }
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1208,
-    "timeDay": 1124,
-    "timeWeek": 1115,
+    "timeDay": 1111,
+    "timeWeek": 1114,
     "timeMonth": 1099,
     "timeYear": 1208,
     "dailyMinutesDown": {
@@ -89,7 +89,7 @@
     "time": 153,
     "timeDay": 184,
     "timeWeek": 196,
-    "timeMonth": 170,
+    "timeMonth": 171,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -99,18 +99,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhymetime.soumyak4.in.ico",
     "slug": "r-hyme-time",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 53,
-    "timeDay": 53,
+    "timeDay": 52,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-08-27": 1,
       "2025-08-26": 28
     }
   }
