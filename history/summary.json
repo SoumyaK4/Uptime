@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 107,
-    "timeWeek": 109,
+    "timeWeek": 110,
     "timeMonth": 112,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.98%",
     "time": 734,
     "timeDay": 470,
-    "timeWeek": 482,
+    "timeWeek": 474,
     "timeMonth": 500,
     "timeYear": 734,
     "dailyMinutesDown": {
@@ -98,19 +98,19 @@
     "url": "https://rhymetime.soumyak4.in/",
     "icon": "https://icons.duckduckgo.com/ip3/rhymetime.soumyak4.in.ico",
     "slug": "r-hyme-time",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 54,
-    "timeDay": 61,
+    "timeDay": 60,
     "timeWeek": 54,
     "timeMonth": 54,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2025-08-28": 2,
+      "2025-08-28": 16,
       "2025-08-26": 28
     }
   }
