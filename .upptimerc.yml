@@ -21,9 +21,9 @@ sites:
   - name: RhymeTime
     url: https://rhymetime.soumyak4.in/
     maxResponseTime: 200
- - name: Vietnam Go Association 
-   url: https://viet-go.soumyak4.in/
-   maxResponseTime: 200
+  - name: Vietnam Go Association 
+    url: https://viet-go.soumyak4.in/
+    maxResponseTime: 200
 
 # skipDeleteIssues: true
 
