@@ -18,21 +18,21 @@ sites:
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
-  - name: RHymeTime
+  - name: RhymeTime
     url: https://rhymetime.soumyak4.in/
     maxResponseTime: 200
-#  - name: Vietnam Go Association 
-#    url: https://viet-go.soumyak4.in/
-#    maxResponseTime: 12345
+ - name: Vietnam Go Association 
+   url: https://viet-go.soumyak4.in/
+   maxResponseTime: 200
 
 # skipDeleteIssues: true
 
 workflowSchedule:
-  uptime: "*/20 * * * *"        # Uptime checks every 30m
-  responseTime: "*/20 * * * *"  # Response time recording every 30m
-#  staticSite: "* * * * *"    # Status page rebuild every hour
-#  summary: "* * * * *"       # README summary updates every hour
-#  graphs: "* * * * *"         # Graph generation every hour
+  uptime: "*/30 * * * *"        # Uptime checks every 30m
+  responseTime: "*/30 * * * *"  # Response time recording every 30m
+  staticSite: "*/30 * * * *"    # Status page rebuild every hour
+  summary: "*/30 * * * *"       # README summary updates every hour
+  graphs: "*/30 * * * *"         # Graph generation every hour
 
 assignees:
   - "SoumyaK4"        
