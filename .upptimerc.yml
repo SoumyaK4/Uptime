@@ -47,7 +47,7 @@ status-website:
   navbar:
     - title: Profile
       href: https://soumyak4.in/
-    - title: Pulsetic
+    - title: Pulsetic Status 
       href: https://pulse.soumyak4.in/
 
   favicon: https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/img/favicons/favicon-96x96.png
