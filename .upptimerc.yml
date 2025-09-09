@@ -23,7 +23,7 @@ sites:
     maxResponseTime: 200
   - name: Vietnam Go Association 
     url: https://viet-go.soumyak4.in/
-    maxResponseTime: 200
+    maxResponseTime: 2000
 
 # skipDeleteIssues: true
 
