@@ -1,7 +1,7 @@
 url: https://viet-go.soumyak4.in/
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2025-11-17T14:45:24.626Z
+status: degraded
+code: 502
+responseTime: 18773
+lastUpdated: 2025-11-17T15:21:27.875Z
 startTime: 2025-09-06T13:26:37.840Z
 generator: Upptime <https://github.com/upptime/upptime>
