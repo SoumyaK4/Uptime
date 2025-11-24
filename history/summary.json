@@ -51,7 +51,7 @@
     "time": 656,
     "timeDay": 466,
     "timeWeek": 463,
-    "timeMonth": 494,
+    "timeMonth": 495,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-11-21": 70,
@@ -71,7 +71,7 @@
     "uptime": "93.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.02%",
-    "uptimeMonth": "66.27%",
+    "uptimeMonth": "66.31%",
     "uptimeYear": "93.30%",
     "time": 1184,
     "timeDay": 1116,
@@ -158,18 +158,19 @@
     "url": "https://viet-go.soumyak4.in/",
     "icon": "https://icons.duckduckgo.com/ip3/viet-go.soumyak4.in.ico",
     "slug": "vietnam-go-association",
-    "status": "up",
-    "uptime": "61.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "61.97%",
+    "status": "down",
+    "uptime": "68.42%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "89.79%",
+    "uptimeYear": "68.42%",
     "time": 521,
     "timeDay": 547,
     "timeWeek": 571,
     "timeMonth": 504,
     "timeYear": 521,
     "dailyMinutesDown": {
+      "2025-11-24": 3,
       "2025-11-21": 24,
       "2025-11-20": 57,
       "2025-11-19": 307,
@@ -252,13 +253,7 @@
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 688,
-      "2025-06-17": 33,
-      "2025-06-15": 413,
-      "2025-06-14": 1440,
-      "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440,
-      "2025-06-10": 1130
+      "2025-06-17": 33
     }
   }
 ]
