@@ -18,12 +18,12 @@ sites:
   - name: Association of Indian Go Players
     url: https://aigp.org.in/
     maxResponseTime: 500
-  - name: RhymeTime
-    url: https://rhymetime.soumyak4.in/
-    maxResponseTime: 200
-  - name: Vietnam Go Association 
-    url: https://viet-go.soumyak4.in/
-    maxResponseTime: 2000
+#  - name: RhymeTime
+#    url: https://rhymetime.soumyak4.in/
+#    maxResponseTime: 200
+#  - name: Vietnam Go Association 
+#    url: https://viet-go.soumyak4.in/
+#    maxResponseTime: 2000
 
 # skipDeleteIssues: true
 
