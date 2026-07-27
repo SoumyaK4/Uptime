@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 116,
     "timeDay": 158,
-    "timeWeek": 131,
+    "timeWeek": 130,
     "timeMonth": 125,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeYear": "99.99%",
     "time": 112,
     "timeDay": 153,
-    "timeWeek": 134,
+    "timeWeek": 133,
     "timeMonth": 130,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "uptimeYear": "99.61%",
     "time": 493,
     "timeDay": 445,
-    "timeWeek": 446,
+    "timeWeek": 447,
     "timeMonth": 454,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -142,14 +142,14 @@
     "url": "https://aigp.org.in/",
     "icon": "https://icons.duckduckgo.com/ip3/aigp.org.in.ico",
     "slug": "association-of-indian-go-players",
-    "status": "degraded",
-    "uptime": "96.02%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "94.51%",
+    "status": "up",
+    "uptime": "96.01%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "94.50%",
     "time": 161,
-    "timeDay": 726,
+    "timeDay": 683,
     "timeWeek": 230,
     "timeMonth": 167,
     "timeYear": 161,
@@ -178,7 +178,7 @@
       "2026-02-13": 356,
       "2026-04-01": 17,
       "2026-05-06": 74,
-      "2026-07-27": 3
+      "2026-07-27": 52
     }
   }
 ]
