@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/soumyak4.in.ico",
     "slug": "portfolio",
     "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 116,
     "timeDay": 155,
     "timeWeek": 137,
@@ -21,7 +21,7 @@
       "2025-12-26": 44,
       "2026-01-26": 15,
       "2026-07-28": 21,
-      "2026-08-08": 0
+      "2026-08-08": 51
     }
   },
   {
@@ -58,8 +58,8 @@
     "uptimeYear": "99.62%",
     "time": 493,
     "timeDay": 433,
-    "timeWeek": 500,
-    "timeMonth": 461,
+    "timeWeek": 502,
+    "timeMonth": 462,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2025-09-05": 36,
@@ -87,7 +87,7 @@
     "uptimeYear": "95.32%",
     "time": 1158,
     "timeDay": 1369,
-    "timeWeek": 1343,
+    "timeWeek": 1345,
     "timeMonth": 1313,
     "timeYear": 1160,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
     "uptimeYear": "94.50%",
     "time": 161,
     "timeDay": 155,
-    "timeWeek": 152,
+    "timeWeek": 151,
     "timeMonth": 170,
     "timeYear": 161,
     "dailyMinutesDown": {
