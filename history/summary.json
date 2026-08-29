@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/soumyak4.in.ico",
     "slug": "portfolio",
     "status": "degraded",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.93%",
+    "uptimeDay": "78.26%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.91%",
     "time": 117,
     "timeDay": 307,
-    "timeWeek": 137,
+    "timeWeek": 139,
     "timeMonth": 131,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-01-26": 15,
       "2026-07-28": 21,
       "2026-08-08": 58,
-      "2026-08-29": 0
+      "2026-08-29": 313
     }
   },
   {
@@ -58,7 +58,7 @@
     "uptimeYear": "99.62%",
     "time": 490,
     "timeDay": 784,
-    "timeWeek": 492,
+    "timeWeek": 488,
     "timeMonth": 467,
     "timeYear": 491,
     "dailyMinutesDown": {
@@ -87,9 +87,9 @@
     "uptimeYear": "95.32%",
     "time": 1174,
     "timeDay": 1528,
-    "timeWeek": 1353,
+    "timeWeek": 1358,
     "timeMonth": 1332,
-    "timeYear": 1174,
+    "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-09-26": 974,
       "2025-09-25": 1440,
@@ -151,7 +151,7 @@
     "uptimeYear": "94.50%",
     "time": 159,
     "timeDay": 223,
-    "timeWeek": 154,
+    "timeWeek": 157,
     "timeMonth": 150,
     "timeYear": 159,
     "dailyMinutesDown": {
