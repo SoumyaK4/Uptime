@@ -4,14 +4,14 @@
     "url": "https://soumyak4.in/",
     "icon": "https://icons.duckduckgo.com/ip3/soumyak4.in.ico",
     "slug": "portfolio",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "78.26%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "77.98%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.91%",
     "time": 117,
-    "timeDay": 307,
+    "timeDay": 257,
     "timeWeek": 139,
     "timeMonth": 131,
     "timeYear": 118,
@@ -22,7 +22,7 @@
       "2026-01-26": 15,
       "2026-07-28": 21,
       "2026-08-08": 58,
-      "2026-08-29": 313
+      "2026-08-29": 317
     }
   },
   {
