@@ -30,9 +30,9 @@ sites:
 workflowSchedule:
   uptime: "*/30 * * * *"        # Uptime checks every 30m
   responseTime: "*/30 * * * *"  # Response time recording every 30m
-  staticSite: "*/30 * * * *"    # Status page rebuild every hour
-  summary: "*/30 * * * *"       # README summary updates every hour
-  graphs: "*/30 * * * *"         # Graph generation every hour
+  staticSite: "0 */6 * * *"    # Status page rebuild every 6 hours
+  summary: "0 */6 * * *"       # README summary updates every 6 hours
+  graphs: "0 */6 * * *"         # Graph generation every 6 hours
 
 assignees:
   - "SoumyaK4"        
