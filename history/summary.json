@@ -80,14 +80,14 @@
     "slug": "tsume-god",
     "status": "down",
     "uptime": "96.57%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "95.32%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "95.31%",
     "time": 1174,
     "timeDay": 1006,
     "timeWeek": 1077,
-    "timeMonth": 1305,
+    "timeMonth": 1304,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-09-26": 974,
@@ -135,7 +135,7 @@
       "2026-03-28": 36,
       "2026-04-08": 250,
       "2026-04-09": 126,
-      "2026-09-09": 2
+      "2026-09-09": 43
     }
   },
   {
